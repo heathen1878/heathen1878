@@ -17,5 +17,6 @@
   - PowerShell DSC
   
 🌱 I’m currently learning:
-- Go
 - Microservices architecture
+- Go
+- Containers
