@@ -2,13 +2,14 @@
 
 👀 I'm interested in the following technologies:
 - IaC
-  - Terraform
+  - (Terraform)[https://github.com/heathen1878/Terraform/wiki]
     - Terratest
   - Pulumi
+  - (ARM)[https://github.com/heathen1878/ARM-QuickStarts]
 - Image Management
-  - Packer
+  - (Packer)[https://github.com/heathen1878/Packer]
 - Scripting
-  - PowerShell
+  - (PowerShell)[https://github.com/heathen1878/PowerShellModules]
   - Bash
 - Programming
   - Go
