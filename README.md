@@ -18,5 +18,5 @@
   
 🌱 I’m currently learning:
 - Microservices architecture
-- (Go)[https://github.com/heathen1878/go]
+- [Go](https://github.com/heathen1878/go)
 - Containers
