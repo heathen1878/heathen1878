@@ -3,7 +3,7 @@
 
 👀 I'm interested in the following technologies:
 - IaC
-  - [Terraform](https://github.com/heathen1878/Terraform/wiki)
+  - [Terraform](https://github.com/heathen1878/Terraform)
     - Terratest
   - [ARM](https://github.com/heathen1878/ARM-QuickStarts)
 - Containers
@@ -12,9 +12,9 @@
   - [Packer](https://github.com/heathen1878/Packer)
 - Scripting
   - [PowerShell](https://github.com/heathen1878/PowerShellModules)
-  - Bash
+  - [Bash](https://github.com/heathen1878/bash)
 - Programming
-  - Go
+  - [Go](https://github.com/heathen1878/go)
 - Configuration Management
   - Puppet
   - PowerShell DSC
