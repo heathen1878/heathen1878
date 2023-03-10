@@ -30,5 +30,6 @@
 [![](https://stdevt4z3f7au4f3xe.blob.core.windows.net/images/microsoft-certified-azure-data-fundamentals.png)](https://www.credly.com/badges/f403a872-fa36-4de5-98c2-332399cd5ca3/public_url)
 
 📜 Badges
+
 [![](https://stdevt4z3f7au4f3xe.blob.core.windows.net/images/open-hack-devops.png)](https://www.credly.com/badges/4fc1e291-b7c3-445f-b40d-e73777c33e17/public_url)
 
