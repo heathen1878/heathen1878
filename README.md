@@ -31,5 +31,5 @@
 
 📜 Badges
 
-[![](https://stdevt4z3f7au4f3xe.blob.core.windows.net/images/open-hack-devops.png)](https://www.credly.com/badges/4fc1e291-b7c3-445f-b40d-e73777c33e17/public_url)
+[![](https://stdevt4z3f7au4f3xe.blob.core.windows.net/images/openhack-devops.png)](https://www.credly.com/badges/4fc1e291-b7c3-445f-b40d-e73777c33e17/public_url)
 
