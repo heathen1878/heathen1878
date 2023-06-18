@@ -4,6 +4,7 @@
 👀 I'm interested in the following technologies:
 - IaC
   - [Terraform](https://github.com/heathen1878/Terraform)
+    - [Terraform Modules](https://registry.terraform.io/namespaces/heathen1878)
     - Terratest
   - [ARM](https://github.com/heathen1878/ARM-QuickStarts)
 - Containers
