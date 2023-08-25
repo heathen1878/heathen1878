@@ -1,4 +1,4 @@
-👋 Hi, I’m Dom Clayton, I'm a Platform Engineer working in Manchester primarily using Azure. 
+👋 Hi, I’m Dom Clayton, I'm a Site Reliability Engineer working in Nottingham primarily using Azure. 
 
 
 👀 I'm interested in the following technologies:
