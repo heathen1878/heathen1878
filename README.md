@@ -1,14 +1,18 @@
-👋 Hi, I’m Dom Clayton, I'm a Site Reliability Engineer working in Nottingham primarily using Azure. 
+# Hi!
 
+👋 Hi, I’m Dom Clayton, I'm a Senior Platform Engineer specialising in Azure.
 
 👀 I'm interested in the following technologies:
+
 - IaC
   - [Terraform](https://github.com/heathen1878/Terraform)
     - [Terraform Modules](https://registry.terraform.io/namespaces/heathen1878)
     - [Terratest](https://github.com/heathen1878/terraform-azurerm-resource-groups/tree/main/tests)
-  - [ARM](https://github.com/heathen1878/ARM-QuickStarts)
 - Containers
   - [Docker](https://github.com/heathen1878/Docker)
+  - [Azure Container Apps](https://github.com/heathen1878/ACA)
+  - [Azure Container Instances](https://github.com/heathen1878/ACI)
+  - [Azure Kubernetes Service](https://github.com/heathen1878/AKS)
 - Image Management
   - [Packer](https://github.com/heathen1878/Packer)
 - Scripting
@@ -22,8 +26,7 @@
   
 🌱 I’m currently learning / reading:
 
-- [Site Reliability Engineering](https://www.amazon.co.uk/Site-Reliability-Engineering-Betsy-Beyer/dp/149192912X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-- [The Site Reliability Workbook](https://www.amazon.co.uk/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+...
 
 📜 Certifications
 
