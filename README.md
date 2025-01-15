@@ -4,6 +4,8 @@
 
 👀 I'm interested in the following technologies:
 
+- Hacking
+  - [k8s](https://github.com/heathen1878/WhatTheHack/blob/001_k8s/001-IntroToKubernetes/README.md)
 - IaC
   - [Terraform](https://github.com/heathen1878/Terraform)
     - [Terraform Modules](https://registry.terraform.io/namespaces/heathen1878)
