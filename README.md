@@ -4,9 +4,6 @@
 
 👀 I'm interested in the following technologies:
 
-- Hacking
-  - [kubernetes](https://github.com/heathen1878/devops-directive-kubernetes-course/blob/working_directory/README.md)
-  - [AKS Intro](https://github.com/heathen1878/WhatTheHack/blob/001_k8s/001-IntroToKubernetes/README.md)
 - IaC
   - [Terraform](https://github.com/heathen1878/Terraform)
     - [Terraform Modules](https://registry.terraform.io/namespaces/heathen1878)
@@ -31,7 +28,8 @@
   
 🌱 I’m currently learning / reading:
 
-...
+- [kubernetes](https://github.com/heathen1878/devops-directive-kubernetes-course/blob/working_directory/README.md)
+- [AKS Intro](https://github.com/heathen1878/WhatTheHack/blob/001_k8s/001-IntroToKubernetes/README.md)
 
 📜 Certifications
 
